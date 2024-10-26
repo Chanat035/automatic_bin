@@ -1,1 +1,1 @@
-# Automaatic Bin
+# Automatic Bin
