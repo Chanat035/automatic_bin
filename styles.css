@@ -35,8 +35,8 @@ body {
     display: inline-block;
     text-align: center;
     padding-top: 15px;
-    padding-left: 5%;
-    padding-right: 3%;
+    padding-left: 5em;
+    padding-right:  3em;
 }
 img {
     width: 100%;
@@ -44,5 +44,11 @@ img {
     background-color: grey;
 }
 .caption {
+    padding-top: 10px;
     display: block;
+}
+.img_box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
