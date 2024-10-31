@@ -18,7 +18,7 @@ header {
   }
   
 section {
-    padding: 10px;
+    padding: 20px;
     margin: 20px;
     margin-left: 25%;
     margin-right: 25%;
@@ -60,16 +60,23 @@ div.item {
     padding-right:  3em;
 }
 
+
 img {
-    width: 100%;
-    height: 400px;
+    width: 60%;
+    
+    background-size: cover;
     background-color: grey;
     border-radius: 50px;
 }
 
 .img2 {
-  width: 100%;
-  height: 250px;
+  width: 70%;
+  background-color: grey;
+  border-radius: 50px;
+}
+
+.img3 {
+  width: 40%;
   background-color: grey;
   border-radius: 50px;
 }
@@ -98,4 +105,45 @@ img {
   justify-content: center;
   align-items: center;
   gap: 0px;
+}
+
+a:link.sc_link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover.sc_link {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:link.yt_link {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover.yt_link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+a:link.footer_link {
+  color: white;
+  background-color: transparent;
+}
+
+a:visited.footer_link {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+a:hover.footer_link {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
 }
