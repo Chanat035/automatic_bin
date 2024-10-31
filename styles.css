@@ -10,6 +10,11 @@ header {
     color: white;
     padding: 10px 20px;
     text-align: center;
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
   }
   
 section {
@@ -35,6 +40,11 @@ footer {
 
 h2{
     text-align: center;
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 25px;
   }
 
 p {
@@ -64,9 +74,22 @@ img {
   border-radius: 50px;
 }
 
-.caption {
+.caption1 {
     padding-top: 10px;
+    font-family: "Noto Sans Thai", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
     display: block;
+}
+
+.caption2 {
+  padding-top: 10px;
+  font-family: "Oxanium", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  display: block;
 }
 
 .container {
@@ -74,5 +97,5 @@ img {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  gap: 4px;
+  gap: 0px;
 }
