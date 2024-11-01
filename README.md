@@ -5,4 +5,4 @@
 
 ## [Website] (https://chanat035.github.io/automatic_bin/)
 ## [Presentation] (https://youtu.be/5ShEA4a5ECI?si=PbhAdfnEU_xZQQsi)
-## ![Infographic] (https://chanat035.github.io/automatic_bin/)
+## ![Infographic] (poster project.pdf)
